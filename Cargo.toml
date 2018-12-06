@@ -1,0 +1,7 @@
+[package]
+name = "conhost-crash-repro"
+version = "0.1.0"
+authors = ["lgreathouse <me@lpghatguy.com>"]
+
+[dependencies]
+all_term = { git = "https://github.com/LPGhatguy/all-term.git" }
